@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Dev\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Dev\test\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-b1112345ebbbc159d6e7e56e04326ced77b7bf76.jar" />
+    </item>
+    <item
+        jar="D:\Dev\test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\Dev\test\app\build\intermediates\pre-dexed\debug\classes-4fefc4b7cd29b03d8a9c05ca63baa48c9798026d.jar" />
+    </item>
+    <item
+        jar="D:\Dev\test\app\build\intermediates\exploded-aar\com.github.traex.expandablelayout\library\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="abeff860f55e6b771b5053b593886c20bbc3fe84">
+        <dex dex="D:\Dev\test\app\build\intermediates\pre-dexed\debug\classes-d066a00c82e5c0cfb69ec71ed868d6e03a038c65.jar" />
+    </item>
+    <item
+        jar="C:\Users\KIMSH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Dev\test\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-909e560d31687dcfd3490a837a70c8233ec24da3.jar" />
+    </item>
+    <item
+        jar="D:\Dev\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Dev\test\app\build\intermediates\pre-dexed\debug\classes-c419ecc696569b137cefc63b713ae96797142ed7.jar" />
+    </item>
+
+</items>
